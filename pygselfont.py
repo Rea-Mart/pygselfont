@@ -37,7 +37,6 @@ class PygselFont():
                 self.font_dict[alphabet[seperator_count]]["img"] = source_pixarray[last_seperator:x, 1:self.height+1].make_surface()
                 last_seperator = x
                 seperator_count += 1
-        
     def render(self,text:str) -> pygame.Surface:
         """Returns a Surface with the rendered text on it, like pygame.Font.render()"""
         inputwidth = 0
