@@ -6,6 +6,7 @@ A class that makes pixel art fonts easy to implement in pygame.
 3. import pygselfont
 4. create a font using the Pygselfont() class
 5. call Pygselfont.render() and blit the returned Surface to the screen
+Note: the class and its function also have their own docstrings
 ## How to make your own fonts
 You can use any image editor that supports .png files (microsoft paint, photoshop, you name it)
 The font files use a color code to indicate the start and end of a letter, outline, etc.
