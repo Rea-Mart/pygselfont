@@ -7,7 +7,8 @@ Very bare bones as of now, but it's in the public domain so you're free to impro
 3. import pygselfont
 4. create a font using the Pygselfont() class
 5. call Pygselfont.render() and blit the returned Surface to the screen
-Note: the class and its function also have their own docstrings
+
+Note: the class and its method also have docstrings with a more in-depth explanation
 ## How to make your own fonts
 You can use any image editor that supports .png files (microsoft paint, photoshop, you name it)
 The font files use a color code to indicate the start and end of a letter, outline, etc.
