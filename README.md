@@ -1,5 +1,6 @@
 # pygselfont
-A class that makes pixel art fonts easy to implement in pygame.
+A class that makes pixel art fonts easy to implement in pygame. 
+Very bare bones as of now, but it's in the public domain so you're free to improve it and share your version!
 ## How to implement
 1. download / copy-paste pygselfont.py
 2. put the .py file and the .png for the font in the same folder as your project
