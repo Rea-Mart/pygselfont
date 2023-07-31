@@ -23,7 +23,8 @@ Color         | Purpose
 1. Draw the letters, leaving a 2-pixel wide gap after each letter
 2. Add the pixel perfect and double outlines as you wish
 3. Add 1 new row of pixels at the top of the image
-4. Add blue dots in the top row representing the first pixel of a letter.
-   Have a look at the example_font.png if you don't understand:
-   ![image](https://github.com/Rea-Mart/pygselfont/assets/126715517/3e06f8e1-0625-494b-8920-1d1882f4f540)
+4. Add blue dots in the top row representing the first pixel of a letter
+
+Have a look at the example_font.png if you don't understand:
+![image](https://github.com/Rea-Mart/pygselfont/blob/main/example_font.png)
 
